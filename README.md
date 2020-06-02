@@ -6,6 +6,9 @@
 We will:
 
 Preprocess text data for NLP
+
 Build and train a 1-D CNN using Keras and Tensorflow
+
 Evaluate our model on the test set
+
 Run the model on your own movie reviews!
